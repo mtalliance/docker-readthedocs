@@ -13,7 +13,7 @@ ENV DEBIAN_FRONTEND=noninteractive \
     PATH=/venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin \
     PYTHON=/venv/bin/python \
     PIP="/venv/bin/pip --disable-pip-version-check" \
-    RTD_REF=2.5.0
+    RTD_REF=2.5.3
 
 
 # Set locale to UTF-8
